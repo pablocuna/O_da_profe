@@ -1,0 +1,76 @@
+body {
+    background: #D2D6FF;
+    font-family: verdana;
+}
+
+fieldset {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    width: 25%;
+    border-radius: 5px;
+    background: #ffffff;
+}
+
+legend {
+    background: #ffffff;
+    border-radius: 5px;
+    text-align: center;
+    border-top: solid 1px;
+}
+
+.item {
+    margin: 10px;
+}
+
+label {
+    font-size: 12px;
+}
+
+strong {
+    font-size: 13px;
+}
+
+input {
+    width: 100%;
+    border-left: none;
+    border-top: none;
+}
+
+.button {
+    float: right;
+    border: solid 1px;
+    border-radius: 2px;
+}
+
+.link {
+    float: right;
+}
+
+.function {
+    margin-top: -2%;
+    float: right;
+}
+
+.function a {
+    margin-left: 3px;
+}
+
+p {
+    font-size: 12px;
+}
+
+footer {
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    font-size: 8px;
+}
+
+span {
+    text-align: center;
+}
