@@ -3,7 +3,7 @@
 		$databaseHost = 'localhost';
 		$databaseNome = 'lpw';
 		$databaseUsuario = 'root';
-		$databaseSenha = '';
+		$databaseSenha = 'hola';
  
 		$conexao = mysqli_connect($databaseHost, $databaseUsuario, 
 		$databaseSenha, $databaseNome);
